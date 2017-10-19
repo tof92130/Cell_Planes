@@ -1,0 +1,4 @@
+Ces programmes calculent les équations carthesiennes de plans formant les faces
+des tetra, prismes et hecaèdres avec une convention de normales sortantes.
+
+Pour être à l'intérieur prendre équation carthésienne < 0
